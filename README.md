@@ -1,0 +1,1 @@
+An integrated platform frontend design that ensures the safety and well-being of women by combining features such as real-time location tracking, emergency alerts, and personalized wellness tracking for menstrual cycles, mental health, and fitness.
