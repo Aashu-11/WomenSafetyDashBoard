@@ -27,7 +27,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, onNavigate, currentSection })
     >
       <div className="h-16 flex items-center justify-center border-b border-pink-100">
         <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-500 to-pink-700 bg-clip-text text-transparent">
-          Bolt AI
+          SafetyCenter
         </h1>
       </div>
       
